@@ -1,0 +1,38 @@
+test 12.12.2005 Montag 11:25:56 
+
+
+Konto/Artikel	Anzahl	Umsatz
+****************************
+Alle Kassen
+****************************
+Umsatz Alle Kassen:		
+Eintritt Alle Kassen:		
+Gäste Alle Kassen:	0
+Eintritt Durchschnitt Alle Kassen:		--
+Erste Buchung Alle Kassen:	Fehler
+Letzte Buchung Alle Kassen:	Fehler
+
+Gäste mit Eintritt Alle Kassen:	0
+Gäste Eintritt frei Alle Kassen:	0
+Gäste M Alle Kassen:	0
+Gäste W Alle Kassen:	0
+Gäste K Alle Kassen:	0
+Gäste M T 	0
+Gäste W T	0
+Gäste M K	0
+Gäste W K	0
+-----------------------------
+EINTRITT/VERKÄUFE
+-----------------------------
+-----------------------------
+PLU/AKTIONEN
+-----------------------------
+-----------------------------
+Punktebuchungen
+-----------------------------
+-----------------------------
+Prämienausgabe
+-----------------------------
+
+
+
